@@ -12,7 +12,14 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img height="30" src="https://camo.githubusercontent.com/https://www.instagram.com/ozkan.semiz" data-canonical-src="https://image.flaticon.com/icons/svg/725/725278.svg" style="max-width:100%;">
+">
+<p align="left">
+<a href="https://twitter.com/MairaAbhishek" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-maira/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhishek_maira10/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/637772cbaceb1bb40d33869c0839a38db0eadf25b87f5cb6ba005bd9ea207f59/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3732352f3732353237382e737667" data-canonical-src="https://image.flaticon.com/icons/svg/725/725278.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <br />
 
