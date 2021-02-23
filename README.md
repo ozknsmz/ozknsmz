@@ -11,7 +11,6 @@
 <a href="https://www.instagram.com/ozkan.semiz/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/637772cbaceb1bb40d33869c0839a38db0eadf25b87f5cb6ba005bd9ea207f59/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3732352f3732353237382e737667" data-canonical-src="https://image.flaticon.com/icons/svg/725/725278.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br />
 
 ### Languages and Tools:
 
