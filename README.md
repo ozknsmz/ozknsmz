@@ -1,7 +1,6 @@
 
 [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smzozkn?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">][twitter]
 
-https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966
 ### I am Özkan, Developer and Student.
 
 - 🔭 I’m currently working on Android
@@ -14,7 +13,6 @@ https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef5
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="codeSTACKr ||raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true" />][instagram]
 
 <br />
 
