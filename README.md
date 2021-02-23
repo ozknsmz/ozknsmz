@@ -43,6 +43,9 @@
 <a href="https://www.hackerrank.com/ozknsmz" rel="nofollow">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="max-width:100%;">
   </a>
+  <a href="https://www.codewars.com/dashboard" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="max-width:100%;">
+  </a>
 
 
 
