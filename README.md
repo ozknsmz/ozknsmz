@@ -13,21 +13,9 @@
 
 
 ### Languages and Tools:
+<img align="left" alt="data-canonical-" src="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" />
+<img align="left" alt="data-canonical-src" src="https://camo.githubusercontent.com/d38e6cc39779250a2835bf8ed3a72d10dbe3b05fa6527baa3f6f1e8e8bd056bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1613757593~hmac=f5417ae22a704517b20d0c03379e7ca9" />
-<img align="left" alt="data-canonical-" width="26px" src="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/3097/3097978.svg" />
-<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613774945~hmac=6f9cb72420200a24aebf2c083bc443a0" />
-<img align="left" alt="c" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1613757494~hmac=cbd8da4fca4c3092f99a40352d87f689" />
-<img align="left" alt="c++" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1613774968~hmac=68ddb93567ee0273131b1ea37c2bdb45" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="c#" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1613757556~hmac=073a30af1490fa5cabc532b9966447ef" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Android" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504881.svg" />
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
 
 
 
