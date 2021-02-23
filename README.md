@@ -1,14 +1,6 @@
-
-[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smzozkn?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">][twitter]
-
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="" style="max-width:100%;">
 
 ### I am Developer on Android Studio.
-
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creator
-
 ### Connect with me:
 <p align="left">
 <a href="https://https://twitter.com/smzozkn/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
