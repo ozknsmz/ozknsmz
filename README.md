@@ -46,7 +46,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ozknsmz&show_icons=true&hide_border=true" />
 
 </details>
-<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+
 [twitter]: https://twitter.com/smzozkn
 [instagram]: https://www.instagram.com/ozkan.semiz
 [linkedin]: https://www.linkedin.com/in/%C3%B6zkan-semiz/
