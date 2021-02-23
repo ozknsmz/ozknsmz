@@ -1,14 +1,13 @@
 
 [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smzozkn?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">][twitter]
 
-### I am Özkan, Developer and Student.
+### I am Developer on Android Studio.
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creator
 
 ### Connect with me:
-">
 <p align="left">
 <a href="https://https://twitter.com/smzozkn/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/%C3%B6zkan-semiz/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,6 +41,11 @@
 
 <br />
 <br />
+
+### I am also on the following sites:
+<a href="https://www.hackerrank.com/ozknsmz" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="max-width:100%;">
+  </a>
 
 
 
