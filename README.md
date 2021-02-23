@@ -45,12 +45,6 @@
   <a href="https://www.codewars.com/dashboard" rel="nofollow">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="max-width:100%;">
   </a>
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ozknsmz&show_icons=true&hide_border=true" />
 
 </details>
