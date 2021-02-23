@@ -45,7 +45,7 @@
   </a>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ozknsmz&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/smzozkn
 [instagram]: https://www.instagram.com/ozkan.semiz
