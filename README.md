@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1613757593~hmac=f5417ae22a704517b20d0c03379e7ca9" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="data-canonical-" width="26px" src="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/3097/3097978.svg" />
 <img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613774945~hmac=6f9cb72420200a24aebf2c083bc443a0" />
